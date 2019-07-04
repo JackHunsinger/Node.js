@@ -1,0 +1,3 @@
+F:\GITHUB\Node.js\NodeJSTest\obj\Debug\NodeJSTest.njsprojAssemblyReference.cache
+F:\GITHUB\Node.js\NodeJSTest\obj\Debug\NodeJSTest.njsproj.CoreCompileInputs.cache
+F:\GITHUB\Node.js\NodeJSTest\bin\Microsoft.NodejsTools.WebRole.dll
